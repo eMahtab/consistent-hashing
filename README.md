@@ -2,4 +2,4 @@
 
 1. Less number of key remap when a node/server gets removed or newly added.
 
-2. Even Distrubtion of data (Replicas/Virtual Nodes)
+2. Even Distribution of data using Replicas/Virtual Nodes
