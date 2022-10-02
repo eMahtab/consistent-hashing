@@ -1,1 +1,1 @@
-# consistent-hashing
+# Consistent Hashing
